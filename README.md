@@ -1,5 +1,5 @@
 ## Hi there 👋,Nice to meet you
-I'am Nasir Rahman, Frontend Developer
+I'm Nasir Rahman, Frontend Developer
 <!--
 **IamNASI/IamNASI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
